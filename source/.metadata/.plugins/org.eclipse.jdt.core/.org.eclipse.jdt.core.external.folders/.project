@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>/afs/inf.ed.ac.uk/user/s09/s0906176/SDP/lejos_nxj/projects/classes</location>
+		</link>
+		<link>
+			<name>.link2</name>
+			<type>2</type>
+			<location>/afs/inf.ed.ac.uk/user/s09/s0906176/SDP/lejos_nxj/projects/pctools</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>/afs/inf.ed.ac.uk/user/s09/s0906176/SDP/lejos_nxj/projects/jtools</location>
+		</link>
+	</linkedResources>
+</projectDescription>
